@@ -17,7 +17,7 @@ const navbar = () => {
                       <Nav.Link as={Link} to ="/">Home</Nav.Link>
                       <Nav.Link as={Link} to ="/About">About</Nav.Link>
                       <Nav.Link as={Link} to ="/Project">Projects</Nav.Link>
-                      <Nav.Link as={Link} to ="/Contact">socials</Nav.Link>
+                      <Nav.Link as={Link} to ="/Contact">Socials</Nav.Link>
                   </Nav>
                   </Container>
                 </span>
