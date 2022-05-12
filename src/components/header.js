@@ -15,7 +15,7 @@ const navbar = () => {
                   <Container>
                   <Nav className="me-auto">
                       <Nav.Link as={Link} to ="/">Home</Nav.Link>
-                      <Nav.Link as={Link} to ="/About">About</Nav.Link>
+                      <Nav.Link as={Link} to ="/About">Skills</Nav.Link>
                       <Nav.Link as={Link} to ="/Project">Projects</Nav.Link>
                       <Nav.Link as={Link} to ="/Contact">Socials</Nav.Link>
                   </Nav>
