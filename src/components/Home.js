@@ -8,7 +8,8 @@ const Home = () => {
     <div>
       <Stack direction="horizontal" gap={5}>
         <Fade big><img className="rounded-circle px-4 mt-2 p-2" width = "780" height = "640" src={picture} ></img></Fade>
-        <Fade right big><div className="display-1"> Welcome to my portfolio!</div></Fade>
+        <Fade right big><div className="display-3"> Welcome to my portfolio! My name is Rahul,
+          A UBC computer science student, with a passion for Web/Blockchain development.</div></Fade>
       </Stack>
     </div>
 

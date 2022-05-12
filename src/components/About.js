@@ -8,11 +8,8 @@ const About = () => {
     <div>
       <Stack direction="horizontal" gap={5}>
         <Stack>
-          <Fade right big><div className="display-5 p-3"> My name is Rahul,
-          A UBC computer science student, with a passion for Web/Blockchain development. </div>
-          </Fade>
           <Fade right big>
-            <div className="display-6 p-3"> List of skills developed: </div> 
+            <div className="display-3 p-3"> List of skills developed: </div> 
             <div className="p-3">
             <Tab.Container id="list-group-tabs-example" defaultActiveKey="#link1">
             <Row>
